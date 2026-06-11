@@ -1,0 +1,22 @@
+# ---------------------------
+# React & Node.js (Frontend)
+# ---------------------------
+node_modules/
+build/
+dist/
+.env
+.env.local
+
+# ---------------------------
+# C# & .NET (Backend)
+# ---------------------------
+[Bb]in/
+[Oo]bj/
+*.user
+appsettings.Development.json
+
+# ---------------------------
+# İşletim Sistemi Kalıntıları
+# ---------------------------
+.DS_Store
+Thumbs.db
