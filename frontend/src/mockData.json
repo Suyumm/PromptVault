@@ -1,0 +1,28 @@
+{
+  "promptGroup_id": "pv_001",
+  "project_name": "Müşteri Hizmetleri Botu",
+  "versions": [
+    {
+      "version_id": "v1.0",
+      "content": "Sen kibar bir müşteri temsilcisisin. Gelen şikayetleri yatıştır.",
+      "model_used": "gpt-4",
+      "metrics": {
+        "token_usage": 124,
+        "latency_ms": 850,
+        "cost_usd": 0.003
+      },
+      "created_at": "2026-06-11T14:30:00Z"
+    },
+    {
+      "version_id": "v1.1",
+      "content": "Sen profesyonel bir müşteri temsilcisisin. Gelen şikayetleri kısa ve net çöz.",
+      "model_used": "gpt-4",
+      "metrics": {
+        "token_usage": 98,
+        "latency_ms": 620,
+        "cost_usd": 0.002
+      },
+      "created_at": "2026-06-11T15:00:00Z"
+    }
+  ]
+}
